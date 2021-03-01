@@ -5,8 +5,8 @@ greet() = print("Hello World!")
 
 function studentinfo()
     info = Dict(
-        "name" => "Brian Jackson",
-        "Andrew ID" => "bjackso2"
+        "name" => "Vaibhav Shete",
+        "Andrew ID" => "vshete"
     )
     return info
 end
